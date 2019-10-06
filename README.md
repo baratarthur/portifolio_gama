@@ -1,0 +1,1 @@
+# blog-gama-ass1
