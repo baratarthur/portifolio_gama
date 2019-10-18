@@ -8,8 +8,8 @@
 
 #### blog_mudaromundo
 	aqui estão os arquivos do blog feito no primeiro assigment,..
-	ele ficou disponível [nesse link](http://www.mudaromundo.blog.br)
+	ele ficou disponível [nesse link]<http://www.mudaromundo.blog.br>
 
 #### landing_page_evento
 	neste estão os arquivos usados para fazer uma landing page..
-	para divulgar um evento, [pode ser acessado nesse link](http://educacao-financeira.surge.sh)
+	para divulgar um evento, [pode ser acessado nesse link]<http://educacao-financeira.surge.sh>
