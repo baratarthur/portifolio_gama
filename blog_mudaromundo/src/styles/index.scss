@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+nav {
+  padding-left: 14%;
+  padding-right: 14%;
+}
+
+.feed-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.feed-nav-button {
+  position: absolute;
+  border: 0px;
+  background-color: transparent;
+  top: 60%;
+  right: 15%;
+  width: 10%;
+  z-index: 1;
+}
+
+#first {
+  flex: 1 1 900px;
+}
+
+.title-footer {
+  flex: 1 1 310px; 
+}
+
+.icon {
+  margin: 5px;
+}
+
+.links-sociais {
+  flex: 1 1 400px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+footer {
+  background-color: rgba(0,205,180,1);
+  color: white;
+  padding-left: 15%;
+  padding-right: 15%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  flex: 1 1 210px;
+  margin: 5px;
+  padding: 0px;
+}
+
+.titulo-materia {
+  text-align: center;
+}
+
+.btn-div {
+  font-size: 25px;
+}
+
+.card{ 
+  color: black;
+}
+
+.btn-link {
+  font-size: 1.2rem;
+}
+
+nav form {
+  line-height: 1.5;
+}
+
+nav .inputForm {
+  border-bottom: 1px solid #9e9e9e !important;
+}
+
+nav .input-field {
+  position: relative;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+input[type="text"] + label,
+input[type="email"] + label {
+  pointer-events: none;
+
+  * {
+      pointer-events: all;
+  }
+}

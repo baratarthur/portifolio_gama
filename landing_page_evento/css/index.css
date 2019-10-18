@@ -1,0 +1,94 @@
+#sympla-widget-683094{
+    margin: auto;
+}
+#palest {
+    border-radius: 50%;
+}
+
+.menu-link {
+    color: black;
+}
+
+.material-icons {
+    color: black;
+}
+
+.section-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section-paragraph {
+    flex: 1 1 320px;
+    margin: 0 10px;
+}
+
+.parallax-container {
+    max-height: 256px;
+}
+
+.mapouter {
+    position:relative;
+    text-align:right;
+    height:700px;
+    width:100%;
+}
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    height:750px;
+    width:100%;
+}
+.endereco{
+   width: 100%;
+}
+.subtitle {
+    color: white;
+    margin: auto;
+}
+
+.observation {
+    color: darkred;
+    background-color: rgb(112,112,112, 0.7);
+    margin-top: 10%;
+    padding: 16px 0;
+}
+
+.data {
+    color: white;
+    padding: 0 auto;
+    margin: auto;
+}
+
+.data div{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+header {
+    background-image: url('../assets/images/flyer-4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+header h1 {
+    margin:0;
+    padding: 40px 0;
+    color: darkred;
+}
+
+header small { 
+    color: white;
+}
+
+section {
+    min-height: 470px;
+}
+
+@media screen and (max-width:750px) {
+    header {
+        min-height: 200px;
+    }
+}
