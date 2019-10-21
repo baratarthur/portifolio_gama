@@ -13,3 +13,11 @@ ele ficou disponível <a target="_blank" href="http://www.mudaromundo.blog.br" >
 #### landing_page_evento
 Neste estão os arquivos usados para fazer uma landing page..
 para divulgar um evento, <a href="http://educacao-financeira.surge.sh" target="_blank">pode ser acessado nesse link</a>
+
+#### feed_template
+Neste estão os arquivos usados para fazer um template de feed..
+usando React, <a href="http://template-feed.surge.sh" target="_blank">pode ser acessado nesse link</a>
+
+#### frases_chuck_norris
+Neste estão os arquivos usados para fazer um app que gera frases..
+do chuck norris usando React, <a href="http://frases-chuck-norris.surge.sh" target="_blank">pode ser acessado nesse link</a>
