@@ -25,3 +25,6 @@ do chuck norris usando React, <a href="http://frases-chuck-norris.surge.sh" targ
 #### github_finder
 Neste estão os arquivos usados para fazer um app que acha seu perfil..
 no github usando React, <a href="http://github-finder-app.surge.sh" target="new_blank">pode ser acessado nesse link</a>
+
+#### gama_flix
+Neste estão os arquivos usados para fazer um app que consulta alguns filmes da api aberta do imdb e os mostra no mesmo modelo do site netflix, este projeto foi feito usando React e Redux, <a href="http://gama-flix.surge.sh" target="new_blank">pode ser acessado nesse link</a>
